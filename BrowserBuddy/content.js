@@ -23,9 +23,10 @@ function addMario() {
   const textMessages = [
     "Hello there!",
     "How are you today?",
+    "Any plans for the weekend?",
+    "Learned anything new recently?",
     "Have a great day!",
     "الى ماذا تنظر؟",
-    "زنجي",
     "(͡ ͡° ͜ つ ͡͡°)",
   ];
 
