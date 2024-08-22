@@ -1,3 +1,1 @@
-![image](https://github.com/user-attachments/assets/699846ca-ed6a-43e2-a2a7-b428e78063d2)
-
-![image](https://github.com/user-attachments/assets/104145ef-ca37-4dd9-8f7a-f64047b6bafa)
+![mario](https://github.com/user-attachments/assets/0b847eed-e168-4420-8f4c-1f0d65bf0cbb)
