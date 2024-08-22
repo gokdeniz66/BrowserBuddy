@@ -1,0 +1,28 @@
+{
+  "manifest_version": 3,
+  "name": "BrowserBuddy",
+  "version": "1.0",
+  "description": "A character that walks on your screen.",
+  "author": "xMrProjectZ",
+  "icons": {
+    "16": "icons/icon.png",
+    "48": "icons/icon.png",
+    "128": "icons/icon.png"
+  },
+  "permissions": ["activeTab"],
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["content.js"]
+    }
+  ],
+  "web_accessible_resources": [
+    {
+      "resources": [
+        "images/mario-walking.gif", 
+        "images/mario-front.png"
+    ],
+      "matches": ["<all_urls>"]
+    }
+  ]
+}
